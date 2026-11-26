@@ -1,0 +1,81 @@
+{
+  "draft_rule_set_id": "ruleset-2026-v32-draft",
+  "baseline_rule_set_id": "ruleset-2026-v31",
+  "summary": {
+    "total_profiles": 8,
+    "changed_profiles": 2,
+    "unchanged_profiles": 6
+  },
+  "profile_diffs": [
+    {
+      "profile_id": "P1_NO_ISG",
+      "profile_label": "İSG Hiç Geçilmemiş",
+      "before_status": "NOT_ELIGIBLE",
+      "after_status": "NOT_ELIGIBLE",
+      "changed": false,
+      "affected_periods": []
+    },
+    {
+      "profile_id": "P2_ISG1_Y1_FALL",
+      "profile_label": "1. Sınıf Güz İSG 1 Geçti",
+      "before_status": "ELIGIBLE",
+      "after_status": "ELIGIBLE",
+      "changed": false,
+      "affected_periods": []
+    },
+    {
+      "profile_id": "P3_ISG1_Y2_FALL",
+      "profile_label": "2. Sınıf Güz İSG 1 Geçti",
+      "before_status": "REVIEW_REQUIRED",
+      "after_status": "ELIGIBLE",
+      "changed": true,
+      "affected_periods": [
+        {
+          "period": "Y2_SUM",
+          "before": "REVIEW_REQUIRED",
+          "after": "ELIGIBLE"
+        }
+      ]
+    },
+    {
+      "profile_id": "P4_ISG1_Y4_SPRING",
+      "profile_label": "4. Sınıf Bahar İSG 1 Geçti (5. Yıl Dinamik)",
+      "before_status": "ELIGIBLE",
+      "after_status": "ELIGIBLE",
+      "changed": false,
+      "affected_periods": []
+    },
+    {
+      "profile_id": "P5_ISG2_Y3_SPRING",
+      "profile_label": "3. Sınıf Bahar İSG 2 Geçti",
+      "before_status": "ELIGIBLE",
+      "after_status": "ELIGIBLE",
+      "changed": false,
+      "affected_periods": []
+    },
+    {
+      "profile_id": "P6_ISG1_DC_ONLY",
+      "profile_label": "Yalnızca İSG 1 DC/DD",
+      "before_status": "REVIEW_REQUIRED",
+      "after_status": "REVIEW_REQUIRED",
+      "changed": false,
+      "affected_periods": []
+    },
+    {
+      "profile_id": "P7_ISG2_MU",
+      "profile_label": "İSG 2 Muaf (MU)",
+      "before_status": "REVIEW_REQUIRED",
+      "after_status": "REVIEW_REQUIRED",
+      "changed": false,
+      "affected_periods": []
+    },
+    {
+      "profile_id": "P8_ISG1_IN_PROGRESS",
+      "profile_label": "İSG 1 Devam Ediyor (Simülasyon)",
+      "before_status": "CONDITIONAL_ELIGIBLE",
+      "after_status": "CONDITIONAL_ELIGIBLE",
+      "changed": false,
+      "affected_periods": []
+    }
+  ]
+}

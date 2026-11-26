@@ -1,0 +1,38 @@
+[
+  {
+    "id": "alias-isg1-101",
+    "course_type": "ISG1",
+    "course_code": "ISG101",
+    "course_name_alias": "İş Sağlığı ve Güvenliği I",
+    "is_active": true,
+    "updated_by": "komisyon.admin@univ.edu.tr",
+    "updated_at": "2026-11-24T09:00:00Z"
+  },
+  {
+    "id": "alias-isg1-ohs",
+    "course_type": "ISG1",
+    "course_code": "OHS101",
+    "course_name_alias": "Occupational Health and Safety I",
+    "is_active": true,
+    "updated_by": "komisyon.admin@univ.edu.tr",
+    "updated_at": "2026-11-24T09:00:00Z"
+  },
+  {
+    "id": "alias-isg2-302",
+    "course_type": "ISG2",
+    "course_code": "ISG302",
+    "course_name_alias": "İş Sağlığı ve Güvenliği II",
+    "is_active": true,
+    "updated_by": "komisyon.admin@univ.edu.tr",
+    "updated_at": "2026-11-24T09:00:00Z"
+  },
+  {
+    "id": "alias-isg2-ohs",
+    "course_type": "ISG2",
+    "course_code": "OHS302",
+    "course_name_alias": "Occupational Health and Safety II",
+    "is_active": true,
+    "updated_by": "komisyon.admin@univ.edu.tr",
+    "updated_at": "2026-11-24T09:00:00Z"
+  }
+]

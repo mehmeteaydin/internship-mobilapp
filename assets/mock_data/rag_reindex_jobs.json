@@ -1,0 +1,25 @@
+[
+  {
+    "id": "job-20261126-001",
+    "status": "SUCCEEDED",
+    "requested_by": "komisyon.admin@univ.edu.tr",
+    "requested_at": "2026-11-26T15:00:00Z",
+    "started_at": "2026-11-26T15:00:02Z",
+    "completed_at": "2026-11-26T15:00:09Z",
+    "source_scope_json": {
+      "scope": "ALL_ACTIVE"
+    },
+    "total_items": 3,
+    "processed_items": 3,
+    "attempt_count": 1,
+    "worker_id": "rag-worker-1",
+    "heartbeat_at": "2026-11-26T15:00:09Z",
+    "lease_expires_at": "2026-11-26T15:01:09Z",
+    "error_code": null,
+    "error_summary": null,
+    "result_summary": {
+      "indexed_sources": 3,
+      "indexed_chunks": 32
+    }
+  }
+]

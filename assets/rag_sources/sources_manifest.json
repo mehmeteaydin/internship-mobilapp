@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "src-yonerge-2026",
+    "source_title": "Üniversite / Mühendislik Fakültesi Staj Yönergesi",
+    "source_url": "https://muhendislik.univ.edu.tr/staj-yonergesi",
+    "source_type": "DIRECTIVE",
+    "priority": 1,
+    "published_at": "2026-09-01T00:00:00Z",
+    "source_version": "2026.1",
+    "file_path": "assets/rag_sources/01_universite_fakulte_staj_yonergesi.md"
+  },
+  {
+    "source_id": "src-komisyon-2026",
+    "source_title": "Bilgisayar Mühendisliği Bölümü Staj Komisyonu Esasları",
+    "source_url": "https://bilgisayar.univ.edu.tr/staj-komisyonu-esaslari",
+    "source_type": "COMMITTEE_RULE",
+    "priority": 2,
+    "published_at": "2026-10-15T00:00:00Z",
+    "source_version": "2026.2",
+    "file_path": "assets/rag_sources/02_bolum_staj_komisyonu_esaslari_ve_duyurulari.md"
+  },
+  {
+    "source_id": "src-sss-2026",
+    "source_title": "Bölüm Web Sitesi Staj SSS",
+    "source_url": "https://bilgisayar.univ.edu.tr/staj-sss",
+    "source_type": "FAQ",
+    "priority": 3,
+    "published_at": "2026-10-20T00:00:00Z",
+    "source_version": "2026.1",
+    "file_path": "assets/rag_sources/03_bolum_web_sitesi_staj_sss.md"
+  }
+]

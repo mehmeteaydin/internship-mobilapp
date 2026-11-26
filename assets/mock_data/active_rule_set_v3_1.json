@@ -1,0 +1,55 @@
+{
+  "id": "ruleset-2026-v31",
+  "version_tag": "v3.1.0",
+  "academic_year": "2026-2027",
+  "status": "PUBLISHED",
+  "lock_version": 1,
+  "effective_from": "2026-11-24",
+  "effective_until": null,
+  "created_by": "komisyon.admin@univ.edu.tr",
+  "approved_by": "Bölüm Staj Komisyonu (Karar 2026/01)",
+  "created_at": "2026-11-24T09:00:00Z",
+  "config_json": {
+    "schema_version": "3.1",
+    "title": "Staj Uygunluk Kuralları",
+    "global_toggles": {
+      "isg1_validity_academic_years": 2,
+      "exclude_public_holidays": true,
+      "allow_saturday_workday": false,
+      "count_half_day_public_holidays_as_full_workday": true
+    },
+    "limits": {
+      "semester_max_count": 1,
+      "summer_max_count": 2,
+      "first_year_semester_allowed": false,
+      "first_year_summer_max_count": 1
+    },
+    "isg1_policy": {
+      "validity_years": 2,
+      "fall_pass_start": "same_academic_year_semester",
+      "spring_pass_start": "same_academic_year_summer",
+      "validity_end": "end_of_following_academic_year_summer"
+    },
+    "isg2_policy": {
+      "validity": "unlimited",
+      "start": "first_eligible_internship_period_after_passed_term",
+      "retroactive": false
+    },
+    "period_overrides": [
+      {
+        "override_id": "committee-decision-2026-001",
+        "profile_scope": "ISG1",
+        "academic_year_index": 2,
+        "period_type": "SUM",
+        "status": "REVIEW_REQUIRED",
+        "max_count_info": 2,
+        "reason": "Komisyon kararıyla özel inceleme",
+        "effective_from": "2026-11-24",
+        "effective_until": null,
+        "source_reference": "Komisyon Kararı No: 2026/01"
+      }
+    ],
+    "undefined_period_policy": "NOT_ELIGIBLE",
+    "review_status": "REVIEW_REQUIRED"
+  }
+}

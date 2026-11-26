@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Y1_SEM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 1,
+    "period_type": "SEM",
+    "start_date": "2027-01-18",
+    "end_date": "2027-02-12",
+    "internship_start_date": "2027-01-18",
+    "internship_end_date": "2027-02-12"
+  },
+  {
+    "id": "Y1_SUM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 1,
+    "period_type": "SUM",
+    "start_date": "2027-06-14",
+    "end_date": "2027-09-10",
+    "internship_start_date": "2027-06-21",
+    "internship_end_date": "2027-09-04"
+  },
+  {
+    "id": "Y2_SEM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 2,
+    "period_type": "SEM",
+    "start_date": "2027-01-18",
+    "end_date": "2027-02-12",
+    "internship_start_date": "2027-01-18",
+    "internship_end_date": "2027-02-12"
+  },
+  {
+    "id": "Y2_SUM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 2,
+    "period_type": "SUM",
+    "start_date": "2027-06-14",
+    "end_date": "2027-09-10",
+    "internship_start_date": "2027-06-21",
+    "internship_end_date": "2027-09-04"
+  },
+  {
+    "id": "Y3_SEM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 3,
+    "period_type": "SEM",
+    "start_date": "2027-01-18",
+    "end_date": "2027-02-12",
+    "internship_start_date": "2027-01-18",
+    "internship_end_date": "2027-02-12"
+  },
+  {
+    "id": "Y3_SUM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 3,
+    "period_type": "SUM",
+    "start_date": "2027-06-14",
+    "end_date": "2027-09-10",
+    "internship_start_date": "2027-06-21",
+    "internship_end_date": "2027-09-04"
+  },
+  {
+    "id": "Y4_SEM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 4,
+    "period_type": "SEM",
+    "start_date": "2027-01-18",
+    "end_date": "2027-02-12",
+    "internship_start_date": "2027-01-18",
+    "internship_end_date": "2027-02-12"
+  },
+  {
+    "id": "Y4_SUM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 4,
+    "period_type": "SUM",
+    "start_date": "2027-06-14",
+    "end_date": "2027-09-10",
+    "internship_start_date": "2027-06-21",
+    "internship_end_date": "2027-09-04"
+  },
+  {
+    "id": "Y5_SUM",
+    "academic_year": "2026-2027",
+    "academic_year_index": 5,
+    "period_type": "SUM",
+    "start_date": "2027-06-14",
+    "end_date": "2027-09-10",
+    "internship_start_date": "2027-06-21",
+    "internship_end_date": "2027-09-04"
+  }
+]

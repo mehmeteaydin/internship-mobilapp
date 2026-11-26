@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ruleset-2026-v31",
+    "version_tag": "v3.1.0",
+    "academic_year": "2026-2027",
+    "status": "PUBLISHED",
+    "lock_version": 1,
+    "effective_from": "2026-11-24",
+    "effective_until": null,
+    "created_by": "komisyon.admin@univ.edu.tr",
+    "approved_by": "Bölüm Staj Komisyonu (Karar 2026/01)",
+    "created_at": "2026-11-24T09:00:00Z"
+  },
+  {
+    "id": "ruleset-2026-v30",
+    "version_tag": "v3.0.0",
+    "academic_year": "2026-2027",
+    "status": "ARCHIVED",
+    "lock_version": 3,
+    "effective_from": "2026-09-01",
+    "effective_until": "2026-11-23",
+    "created_by": "komisyon.admin@univ.edu.tr",
+    "approved_by": "Fakülte Yönetim Kurulu",
+    "created_at": "2026-09-01T10:15:00Z"
+  },
+  {
+    "id": "ruleset-2026-v32-draft",
+    "version_tag": "v3.2.0-draft",
+    "academic_year": "2026-2027",
+    "status": "DRAFT",
+    "lock_version": 1,
+    "effective_from": "2026-12-01",
+    "effective_until": null,
+    "created_by": "komisyon.admin@univ.edu.tr",
+    "approved_by": null,
+    "created_at": "2026-11-26T14:30:00Z"
+  }
+]
