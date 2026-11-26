@@ -1,0 +1,68 @@
+{
+  "template_key": "internship_application_form",
+  "name": "Zorunlu Staj Başvuru ve SGK Talep Formu",
+  "version": "3.1.0",
+  "file_name": "staj_basvuru_formu_v3_1.docx",
+  "required_placeholders": [
+    "student_name",
+    "student_no",
+    "department",
+    "class_year",
+    "phone",
+    "email",
+    "address",
+    "period_id",
+    "period_name",
+    "start_date",
+    "end_date",
+    "work_days",
+    "workday_mode",
+    "company_name",
+    "company_tax_no",
+    "company_phone",
+    "company_address",
+    "supervisor_name",
+    "application_date",
+    "rule_version"
+  ],
+  "optional_placeholders": [
+    "company_email",
+    "tc_kimlik_masked",
+    "notes"
+  ],
+  "locations": {
+    "header": [
+      "rule_version"
+    ],
+    "paragraphs": [
+      "student_name",
+      "application_date",
+      "notes"
+    ],
+    "tables": [
+      "student_name",
+      "student_no",
+      "department",
+      "class_year",
+      "phone",
+      "email",
+      "address",
+      "tc_kimlik_masked",
+      "period_id",
+      "period_name",
+      "start_date",
+      "end_date",
+      "work_days",
+      "workday_mode",
+      "company_name",
+      "company_tax_no",
+      "company_phone",
+      "company_email",
+      "company_address",
+      "supervisor_name"
+    ],
+    "footer": [
+      "application_date"
+    ]
+  }
+}

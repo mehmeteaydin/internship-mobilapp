@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cal-2027-01-01",
+    "date": "2027-01-01",
+    "name": "Yılbaşı",
+    "day_type": "PUBLIC_HOLIDAY",
+    "is_half_day": false,
+    "is_workday_override": false,
+    "source": "Resmî Gazete"
+  },
+  {
+    "id": "cal-2027-03-08",
+    "date": "2027-03-08",
+    "name": "Ramazan Bayramı Arifesi",
+    "day_type": "RELIGIOUS_HOLIDAY",
+    "is_half_day": true,
+    "is_workday_override": true,
+    "source": "Komisyon Kararı 2026/03"
+  },
+  {
+    "id": "cal-2027-04-23",
+    "date": "2027-04-23",
+    "name": "Ulusal Egemenlik ve Çocuk Bayramı",
+    "day_type": "PUBLIC_HOLIDAY",
+    "is_half_day": false,
+    "is_workday_override": false,
+    "source": "Resmî Gazete"
+  },
+  {
+    "id": "cal-2027-05-19",
+    "date": "2027-05-19",
+    "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+    "day_type": "PUBLIC_HOLIDAY",
+    "is_half_day": false,
+    "is_workday_override": false,
+    "source": "Resmî Gazete"
+  },
+  {
+    "id": "cal-2027-07-15",
+    "date": "2027-07-15",
+    "name": "Demokrasi ve Millî Birlik Günü",
+    "day_type": "PUBLIC_HOLIDAY",
+    "is_half_day": false,
+    "is_workday_override": false,
+    "source": "Resmî Gazete"
+  },
+  {
+    "id": "cal-2027-08-30",
+    "date": "2027-08-30",
+    "name": "Zafer Bayramı",
+    "day_type": "PUBLIC_HOLIDAY",
+    "is_half_day": false,
+    "is_workday_override": false,
+    "source": "Resmî Gazete"
+  },
+  {
+    "id": "cal-2027-10-28",
+    "date": "2027-10-28",
+    "name": "Cumhuriyet Bayramı Arifesi",
+    "day_type": "PUBLIC_HOLIDAY",
+    "is_half_day": true,
+    "is_workday_override": true,
+    "source": "Komisyon Kararı 2026/03"
+  },
+  {
+    "id": "cal-2027-10-29",
+    "date": "2027-10-29",
+    "name": "Cumhuriyet Bayramı",
+    "day_type": "PUBLIC_HOLIDAY",
+    "is_half_day": false,
+    "is_workday_override": false,
+    "source": "Resmî Gazete"
+  }
+]

@@ -121,3 +121,19 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+
+# Python / Backend
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.env
+.env.local
+
+# Node / Admin Web
+node_modules/
+admin-web/dist/
+admin-web/.vite/
+.DS_Store
